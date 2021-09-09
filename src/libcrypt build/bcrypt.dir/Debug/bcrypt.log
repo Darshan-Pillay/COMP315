@@ -1,0 +1,61 @@
+﻿  Building Custom Rule C:/Users/darsh/Desktop/libbcrypt/CMakeLists.txt
+cl : command line warning D9002: ignoring unknown option '-O3'
+  bcrypt.c
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(34,10): warning C4464: relative include path contains '..'
+C:\Users\darsh\Desktop\libbcrypt\src\../include/bcrypt/bcrypt.h(17,1): warning C4005: 'BCRYPT_HASHSIZE': macro redefinition
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(32): message : see previous definition of 'BCRYPT_HASHSIZE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10326,22): warning C4668: '_WIN32_WINNT_WIN10_TH2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10332,22): warning C4668: '_WIN32_WINNT_WIN10_RS1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10337,22): warning C4668: '_WIN32_WINNT_WIN10_TH2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10341,22): warning C4668: '_WIN32_WINNT_WIN10_TH2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10348,22): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10358,22): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10362,22): warning C4668: '_WIN32_WINNT_WIN10_TH2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10367,22): warning C4668: '_WIN32_WINNT_WIN10_RS3' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10374,22): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10377,22): warning C4668: '_WIN32_WINNT_WIN10_RS1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10380,22): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10385,22): warning C4668: '_WIN32_WINNT_WIN10_RS1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10388,22): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10588,22): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(10612,22): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(14093,22): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(14296,22): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(14399,22): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(14495,21): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(14599,22): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(15350,23): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(15406,22): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(15525,22): warning C4668: '_WIN32_WINNT_WIN10_RS3' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(15675,22): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(15688,22): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winioctl.h(15916,22): warning C4668: '_WIN32_WINNT_WIN10_RS1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(50,14): warning C4013: 'close' undefined; assuming extern returning int
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(68,18): warning C4013: 'read' undefined; assuming extern returning int
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(97,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(98,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(158,24): warning C4013: 'crypt_gensalt_rn' undefined; assuming extern returning int
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(159,33): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(118,6): warning C4101: 'fd': unreferenced local variable
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(126,12): warning C4101: 'i': unreferenced local variable
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(166,16): warning C4013: 'crypt_rn' undefined; assuming extern returning int
+C:\Users\darsh\Desktop\libbcrypt\src\bcrypt.c(166,53): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  crypt_blowfish.c
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(55,10): warning C4464: relative include path contains '..'
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(399,43): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(407,36): warning C4244: '=': conversion from 'unsigned int' to 'unsigned char', possible loss of data
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(903,30): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+  crypt_gensalt.c
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_gensalt.c(30,10): warning C4464: relative include path contains '..'
+  wrapper.c
+C:\Users\darsh\Desktop\libbcrypt\src\wrapper.c(45,10): warning C4464: relative include path contains '..'
+C:\Users\darsh\Desktop\libbcrypt\src\wrapper.c(47,10): warning C4464: relative include path contains '..'
+C:\Users\darsh\Desktop\libbcrypt\src\wrapper.c(48,10): warning C4464: relative include path contains '..'
+  Generating Code...
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(760): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(759): message : index 'i' range checked by comparison on this line
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(765): message : feeds memory load on this line
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(706): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(705): message : index 'i' range checked by comparison on this line
+C:\Users\darsh\Desktop\libbcrypt\src\crypt_blowfish.c(708): message : feeds memory load on this line
+  bcrypt.vcxproj -> C:\Users\darsh\Desktop\A.N.D\A.N.D\A.N.D\libcrypt build\Debug\bcrypt.lib

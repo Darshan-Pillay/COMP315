@@ -1,0 +1,62 @@
+Which of the following is a synonym for Kind:,0,Nice,Wild,Funny,Friendly,Best,1
+Which of the following is a synonym for Fast:,0,Clean,Slow,Quick,First,Last,3
+Which of the following is a synonym for Shiny:,0,Dark,Dull,Clear,Colourful,Glossy,5
+Which of the following is a synonym for Big:,0,Tall,Small,Short,Large,Tiny,4
+Which of the following is a synonym for Noisy:,0,Loud,Silent,Quiet,Whisper,Abrupt,1
+Which of the following is a synonym for Final:,0,Smart,Begin,First,Last,Start,4
+Which of the following is a synonym for Bookish:,0,Ignorant,Erudite,Rude,Polite,Scared,2
+Which of the following is a synonym for Explode:,0,Implode,Sound,Funny,Burst,Work,4
+Which of the following is a synonym for Dismal:,0,Bright,Attractive,Gleeful,Gay,Sorrowful,5
+Which of the following is a synonym for Feeble:,0,Frail,Strong,Muscular,Young,Fat,1
+Is Vacation a synonym of Journey?,1,True,False,NULL,NULL,NULL,2
+Is Sluggish a synonym of Lazy?,1,True,False,NULL,NULL,NULL,1
+Is Important a synonym of Simple?,1,True,False,NULL,NULL,NULL,2
+Is Amusing a synonym of Comical?,1,True,False,NULL,NULL,NULL,1
+Is Queer a synonym of Normal?,1,True,False,NULL,NULL,NULL,2
+Is Apocryphal a synonym of Fictitious?,1,True,False,NULL,NULL,NULL,1
+Is Acquiescent a synonym of Disobey?,1,True,False,NULL,NULL,NULL,2
+Is Fire a synonym of Dismiss?,1,True,False,NULL,NULL,NULL,1
+Is Prostrate a synonym of Upright?,1,True,False,NULL,NULL,NULL,2
+Is Fallow a synonym of Uncultivated?,1,True,False,NULL,NULL,NULL,1
+Which of the following is an antonym for Good:,0,Bad,Brilliant,Great,Warm,Great,1
+Which of the following is an antonym for Unite:,0,Pain,Rain,Pleasant,Together,Divide,4
+Which of the following is an antonym for Elementrary:,0,Obvious,Easy,Advanced,Backward,Simple,3
+Which of the following is an antonym for Minimum:,0,High,Maximum,Above,Top,Below,2
+Which of the following is an antonym for Cling:,0,Grab,Ignore,Artic,Warm,Detach,5
+Which of the following is an antonym for Detest:,0,Hate,Withold,Injure,Adore,Assist,4
+Which of the following is an antonym for Stressed:,0,Cautious,Relaxed,Anxious,Angry,Sad,2
+Which of the following is an antonym for Limp:,0,Strict,Bending,Stiff,Metal,Plastic,3
+Which of the following is an antonym for Meek:,0,Peaceful,Timid,Great,Assertive,Quiet,4
+Which of the following is an antonym for Live:,0,Perish,Healthy,Attack,View,Approve,1
+Is Bore an antonym of Excite?,1,True,False,NULL,NULL,NULL,1
+Is Crestfallen an antonym of Glum?,1,True,False,NULL,NULL,NULL,2
+Is Meagre an antonym of Abundant?,1,True,False,NULL,NULL,NULL,1
+Is Refute an antonym of Disprove?,1,True,False,NULL,NULL,NULL,2
+Is Discrete an antonym of Connected?,1,True,False,NULL,NULL,NULL,1
+Is Creative an antonym of Imaginative?,1,True,False,NULL,NULL,NULL,2
+Is Precise an antonym of Careless?,1,True,False,NULL,NULL,NULL,1
+Is Thoughtful an antonym of Considerate?,1,True,False,NULL,NULL,NULL,2
+Is Compact an antonym of Loose?,1,True,False,NULL,NULL,NULL,1
+Is Coherent an antonym of Logical?,1,True,False,NULL,NULL,NULL,2
+Which of the following is a homonym of Weak:,0,Week,Strong,Thin,Day,Sick,1
+Which of the following is a homonym of We'd:,0,Search,Jiggle,Peek,Film,Weed,5
+Which of the following is a homonym of Hear:,0,Listen,There,Up,Next,Here,5
+Which of the following is a homonym of Flour:,0,Tree,Seed,Flow,Flower,Later,4
+Which of the following is a homonym of To:,0,Twice,Rice,Flu,Too,Goo,4
+Which of the following is a homonym of Meat:,0,Meet,Mate,Rate,Feet,Date,1
+Which of the following is a homonym of Your:,0,You,You're,All,Are,None,2
+Which of the following is a homonym of By:,0,Sell,Buy,Cost,Price,Brain,2
+Which of the following is a homonym of Which:,0,Snitch,Witch,Rich,White,Magic,2
+Which of the following is a homonym of See:,0,Look,Land,Sea,Seen,Saw,3
+Is Threw a homonym of Through?,1,True,False,NULL,NULL,NULL,1
+Is Mate a homonym of Rate?,1,True,False,NULL,NULL,NULL,2
+Is Bear a homonym of Bare?,1,True,False,NULL,NULL,NULL,1
+Is There a homonym of Where?,1,True,False,NULL,NULL,NULL,2
+Is Forth a homonym of Fourth?,1,True,False,NULL,NULL,NULL,1
+Is Hair a homonym of Pair?,1,True,False,NULL,NULL,NULL,2
+Is Earn a homonym of Urn?,1,True,False,NULL,NULL,NULL,1
+Is Side a homonym of Tide?,1,True,False,NULL,NULL,NULL,2
+Is Hoarse a homonym of Horse?,1,True,False,NULL,NULL,NULL,1
+Is Neat a homonym of Beet?,1,True,False,NULL,NULL,NULL,2
+Is Flew a homonym of Flu?,1,True,False,NULL,NULL,NULL,1
+Is Czech a homonym of Check?,1,True,False,NULL,NULL,NULL,1

@@ -1,0 +1,63 @@
+Which Mathematician was born on 23 June 1912?,0,Alan Turing,Terrence Tao,Henda Swart,Charles Babbage,Bertrand Russell,1
+Which Mathematician died on 7 June 1954?,0,Alan Turing,John Van Neumann,Ada Lovelace,David Hillbert,Emile Martin,1
+Where did Alan Turing die?,0,London,England,Germany,Spain,America,1
+Which Mathematician was born on 18 May 1872?,0,Bertrand Russell,Oskar Bolza,Alan Turing,Henda Swart,Joseph Fourier,1
+Which mathematician died on 2 February 1970?,0,Bertrand Russell,Oskar Bolza,Ada Lovelace,Alan Turing,Charles Babbage,1
+Which mathematician was born on 28 December 1903?,0,John Van Neumann,Alan Turing,Henda Swart,David Hillbert,Charles Babbage,1
+Which mathematician died on 8 February 1957?,0,Alan Turing,John Van Neumann,Joseph Jean Baptiste Neuberg,Emile Martin,Karl Pearson,2
+Which mathematican was born on 11 August 1939?,0,Bertrand Russell,Oskar Bolza,George F.R. Ellis,Joseph-Louis Lagrange,Carl Friedrich Gauss,3
+Which mathematician was born on 23 January 1862?,0,David Hillbert,Henda Swart,George F.R. Ellis,Leonhard Euler,Joseph Fourier,1
+Which mathematician died on 14 February 1943?,0,David Hillbert,Ada Lovelace,Joseph Jean Baptiste Neuberg,Charles Babbage,Emile Martin,1
+Which mathematician was born on 10 December 1815?,0,John Van Neumann,Henda Swart,Karl Pearson,Ada Lovelace,Alan Turing,4
+Which mathematician died on 27 November 1852?,0,John Van Neumann,Oskar Bolza,Karl Pearson,Ada Lovelace,Bertrand Russell,4
+Which mathematician was born on 30 October 1840?,0,Henda Swart,Terrence Tao,Charles Babbage,Carl Friedrich Gauss,Joseph Jean Baptiste Neuberg,5
+Which mathematician died on 22 March 1926?,0,Terrence Tao,Henda Swart,David Hillbert,Joseph Fourier,Joseph Jean Baptiste Neuberg,5
+Which university did Oskar Bolza study at?,0,University of Chicago,University of Oxford,University of Edinburgh,University of Amsterdam, Heidelberg University ,1
+Which country was Oskar Bolza was born in?,0,Germany,America,England,South Africa,Canada,1
+Where was Karl Pearson was born in?,0,China,Japan,London,Germany,America,3
+When was Leonhard Euler born?,0,18 April 1701,15 April 1701,15 May 1710,15 June 1711,2 June 2021,2
+When did Leonhard Euler die?,0,17 August 1783,19 September 1784,18 September 1783,20 September 1782,30 June 2021,3
+Which University did Leonhard Euler study at?,0,University of Chicago, University of Warwick,University of Edinburgh,University of Basel,University of Bristol,4
+When did Charles Babbage die?,0,17 October 1870,19 October 1871,20 December 1875,21 December 1874,18 October 1871,5
+Where was Charles Babbage was born?,0,South Africa,America,France,London,Italy,4
+When was Carl Friedrich Gauss born?,0,30 March 1777,30 March 1778,30 April 1777,28 April 1777,13 April 1777,1
+When did Carl Friedrich Gauss die?,0,21 February 1854,23 February 1855,23 March 1854,12 February 1855,12 March 1857,1
+Where was Carl Friedrich Gauss was born?,0,New Zealand,England,America,Italy,Germany,5
+When was Joseph Fourier was born?,0,21 April 1769,21 March 1768,12 March 1768,21 April 1786,12 March 1786,2
+When did Joseph Fourier die?,0,16 May 1840,16 May 1850,17 May 1830,16 May 1830,16  May 1840,4
+Where did Joseph Fourier die?,0,France,England,Germany,Sweden,Netherlands,1
+When did Joseph-Louis Lagrange die?,0,10 April 1813,11 April 1812,15 April 1810,16 April 1813,17 April 1811,1
+Where did Joseph-Louis Lagrange die?,0,Italy,France,England,Netherlands,Austria,2
+Alan Turing was a homosexual,1,TRUE,FALSE,NULL,NULL,NULL,1
+Alan Turing studied at Princeton University,1,TRUE,FALSE,NULL,NULL,NULL,1
+Alan Turing was born in London,1,TRUE,FALSE,NULL,NULL,NULL,1
+Bertrand Russell also published philosophy books,1,TRUE,FALSE,NULL,NULL,NULL,1
+John Van Neumann was born in Hungary,1,TRUE,FALSE,NULL,NULL,NULL,1
+George F.R. Ellis is a South African Mathematician,1,TRUE,FALSE,NULL,NULL,NULL,1
+George F.R. Ellis studied at the University of Cape Town,1,TRUE,FALSE,NULL,NULL,NULL,1
+Henda Swart was born in South Africa,1,TRUE,FALSE,NULL,NULL,NULL,1
+Henda Swart taught at University of Kwa-Zulu Natal,1,TRUE,FALSE,NULL,NULL,NULL,1
+David Hillbert was born in Germany,1,TRUE,FALSE,NULL,NULL,NULL,1
+Ada Lovelace was born in London,1,TRUE,FALSE,NULL,NULL,NULL,1
+Ada Lovelace was born in Germany,1,TRUE,FALSE,NULL,NULL,NULL,2
+Ada Lovelace died in London,1,TRUE,FALSE,NULL,NULL,NULL,1
+Joseph Jean Baptiste Neuberg died in Germany,1,TRUE,FALSE,NULL,NULL,NULL,2
+Joseph Jean Baptiste Neuberg died in Belgium,1,TRUE,FALSE,NULL,NULL,NULL,1
+Emile Martin was born in America,1,TRUE,FALSE,NULL,NULL,NULL,1
+Emile Martin died in America,1,TRUE,FALSE,NULL,NULL,NULL,1
+Emile Martin was a woman,1,TRUE,FALSE,NULL,NULL,NULL,1
+Oskar Bolza was born on 12 May 1857,1,TRUE,FALSE,NULL,NULL,NULL,1
+Oskar Bolza died on 5 July 1942,1,TRUE,FALSE,NULL,NULL,NULL,1
+Oskar Bolza was born in Netherlands,1,TRUE,FALSE,NULL,NULL,NULL,2
+Oskar Bolza died in Germany,1,TRUE,FALSE,NULL,NULL,NULL,1
+Karl Pearson was born in South Africa,1,TRUE,FALSE,NULL,NULL,NULL,2
+Charles Babbage was born on 26 December 1791,1,TRUE,FALSE,NULL,NULL,NULL,1
+Charles Babbage was born in France,1,TRUE,FALSE,NULL,NULL,NULL,2
+Carl Friedrich Gauss was born in Germany,1,TRUE,FALSE,NULL,NULL,NULL,1
+Joseph Fourier was born in France,1,TRUE,FALSE,NULL,NULL,NULL,1
+Joseph Fourier is known for the Fourier series,1,TRUE,FALSE,NULL,NULL,NULL,1
+Joseph-Louis Lagrange was born on 25 January 1736,1,TRUE,FALSE,NULL,NULL,NULL,1
+
+
+
+
